@@ -127,6 +127,7 @@ nav ul li a:hover {
 
 .btn1:hover {
   box-shadow: 1px 1px 1px #333;
+  cursor: pointer;
 }
 
 /* ACTIVITY */
